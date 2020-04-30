@@ -8,7 +8,7 @@
         <version>2.2.6.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.fifth_fleet</groupId>
+    <groupId>com.fifth-fleet</groupId>
     <artifactId>jagras</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>jagras</name>
